@@ -1,8 +1,0 @@
-@font-face {
-  font-family: 'Montserrat Light';
-  src: url('path/to/Montserrat-Light.ttf');
-}
-
-h1 {
-  font-family: 'Montserrat Light', sans-serif;
-}
