@@ -38,7 +38,8 @@ While we're starting with low-hanging fruit, our long-term objective is to build
 
 To complement the Handbook and Wiki, we're also launching the AlmaLinux Podcast. Our podcast will feature interviews with interesting guests from the industry, who will share real-life use cases and insights to inspire users and contributors to create new sections or extend the handbook.
 
-Comparison: Differences between Fedora, Gentoo, and FreeBSD
+
+### Comparison: Differences between Fedora, Gentoo, and FreeBSD
 Why/What?
 
 Fedora, Gentoo, and FreeBSD are three open-source operating systems that have gained popularity in the open-source community. One of the significant factors contributing to the success of these projects is the presence of comprehensive and well-documented handbooks. Here are some examples of how having a handbook has helped these projects gain popularity, and potential differences between them:
@@ -59,10 +60,11 @@ Fedora, Gentoo, and FreeBSD are three open-source operating systems that have ga
 
     Potential Differences: Fedora is backed by Red Hat and has a strong focus on open-source innovation, while FreeBSD is known for its robust and stable environment. Gentoo is recognized for its community-driven development process and extensive customization options.
 
-Conclusion
+### Conclusion
 
 Having comprehensive and well-documented handbooks has played a significant role in the success of Fedora, Gentoo, and FreeBSD. While there are differences between these projects, the presence of a handbook has helped make these operating systems more accessible, standardized, and trustworthy for users.
-AlmaLinux handbook (proposal for TOC)
+
+### AlmaLinux handbook (proposal for TOC)
 
 [ THIS IS WIP - worked on in separate document ]
 
