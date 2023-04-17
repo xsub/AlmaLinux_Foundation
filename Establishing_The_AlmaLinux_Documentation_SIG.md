@@ -26,8 +26,8 @@ This needs defining requirements first than we can estimate time/effort.
 * Testable documentation, such as how-tos, with openQA encourages contributors to progress further, prepare tests, and potentially add more scenarios to the handbook or write code.
 * Engage with the broader AlmaLinux community to raise awareness and attract more contributors.
 * Reach out to industry leaders: technical coaches and educators and ask them to create under auspices of The AlmaLinux Foundation.  
- [DocumentationSIG--Announcement to Educators-Tech_Leaders-Coaches](https://docs.google.com/document/d/1E0z0cVEu4rtqn8QBmAbTfVcAv5gwBBBMBaf8rL5-wGY/edit?usp=sharing) 
- [DocumentationSIG-AlmaLinuxFoundation-benefits-for-educators-leaders-coaches](https://docs.google.com/document/d/1_UcE6-Z-pigjRS8wdXDeV1JRAB8-8cKVfnLcLmsyQMs/edit?usp=sharing)
+ [DocumentationSIG--Announcement to Educators-Tech_Leaders-Coaches](https://docs.google.com/document/d/1E0z0cVEu4rtqn8QBmAbTfVcAv5gwBBBMBaf8rL5-wGY/edit?usp=sharing)<br>
+ [DocumentationSIG-AlmaLinuxFoundation-benefits-for-educators-leaders-coaches](https://docs.google.com/document/d/1_UcE6-Z-pigjRS8wdXDeV1JRAB8-8cKVfnLcLmsyQMs/edit?usp=sharing)<br>
  [DocumentationSIG-HR_Managers_Team_Leaders_POLL](https://docs.google.com/document/d/1wLuivoRzhzlTyqePkYXrYjSoZC4YhR-ByQ8brvjSbAw/edit?usp=sharing)
   
 ### 5. Establishing a Review and Quality Assurance Process: Implement a structured review process to ensure accuracy, clarity, and consistency of documentation.
