@@ -1,5 +1,5 @@
 
-# The Process for Creating a New SIG* in the AlmaLinux Community \
+# The Process for Creating a New SIG* in the AlmaLinux Community 
 *Special Interest Group
 
 
